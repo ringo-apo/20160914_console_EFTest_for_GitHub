@@ -1,0 +1,10 @@
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\data\programing\20160914_console_EFTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
