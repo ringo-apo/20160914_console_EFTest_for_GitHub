@@ -2,12 +2,10 @@
 Entity Frameworkのテスト
 
 使用上の注意
-　EntityFrameworkは再インストール必要があります。
+　EntityFrameworkはアンインストール→再インストールする必要があります。
 
 NuGetパッケージコンソールでインストール
      install-package entityframework 
-
-
 
 テーブルは、
 ・id
